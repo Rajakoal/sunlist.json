@@ -1,0 +1,19 @@
+{
+  "name": "UST Token List",
+  "timestamp": "2025-02-13T00:00:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "TN6MMv8K4Q2tYrrGkyUgEMMHCv5ojvhAaj",
+      "name": "UST",
+      "symbol": "UST",
+      "decimals": 18,
+      "logoURI": "https://wheat-meerkat-480446.hostingersite.com/usit-wallet/assets/img/sunlist.png"
+    }
+  ]
+}
