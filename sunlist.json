@@ -1,10 +1,10 @@
 {
-  "name": "UST Token List",
+  "name": "UST",
   "keywords": ["trc20", "token", "UST"],
   "timestamp": "2025-02-22T00:00:00+00:00",
   "tokens": [
     {
-      "chainId": 1,
+      "chainId": 728126428,
       "address": "TN6MMv8K4Q2tYrrGkyUgEMMHCv5ojvhAaj",
       "symbol": "UST",
       "name": "UST",
