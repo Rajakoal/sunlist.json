@@ -1,0 +1,21 @@
+{
+    "name": "My Token List",
+    "logoURI": "https://raw.githubusercontent.com/YourUsername/YourRepo/main/logo.png",
+    "keywords": ["defi", "token", "mytoken"],
+    "timestamp": "2025-02-22T00:00:00+00:00",
+    "tokens": [
+      {
+        "chainId": 728126428, 
+        "address": "TRON_CONTRACT_ADDRESS_HERE", 
+        "symbol": "MYT", 
+        "name": "My Token", 
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/YourUsername/YourRepo/main/mytoken.png"
+      }
+    ],
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0
+    }
+  }
